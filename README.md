@@ -2,3 +2,5 @@
 * header tokopedia
 * conten shoppe
 * footer alibaba
+
+Yang di buat dengan menggunakan bahasa pemrograman PHP dengan database MySQL
